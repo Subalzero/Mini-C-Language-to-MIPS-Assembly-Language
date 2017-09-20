@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/parser/Parser.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/lexer/Word.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/While.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/lexer/Lexer.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Stmt.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/reader/ReadFile.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/asm/Temporary.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/lexer/Num.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Unary.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/symbols/Env.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/If.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Do.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/lexer/Token.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Op.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/symbols/Array.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Node.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/asm/Register.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Id.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/main/Main.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Expr.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/And.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Rel.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Logical.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/lexer/Tag.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/asm/Assembly.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Constant.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/SetElem.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/lexer/LexInter.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/lexer/Real.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Seq.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Else.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Break.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Or.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Set.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Temp.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Continue.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Arith.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/asm/Float.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Access.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/symbols/Type.java</file>
+            <file>file:/C:/Documents%20and%20Settings/Ellezer/My%20Documents/NetBeansProjects/Java%20Compiler/src/inter/Not.java</file>
+        </group>
+    </open-files>
+</project-private>
